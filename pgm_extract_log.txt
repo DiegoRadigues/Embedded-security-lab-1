@@ -1,0 +1,2 @@
+P5 256x256 maxval=255, header_end=15, pixel_end=65551, tail=0
+bitplanes: ORLY_bit0.pgm, ORLY_bit1.pgm, ORLY_bit7.pgm
